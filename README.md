@@ -1,4 +1,4 @@
-# If_else_check
+# If_else_parser
 
 ## Introduction
 **If_else_check** is a C++ project designed to validate whether an input string conforms to the syntax of an `if-else` conditional statement in C++. This tool is useful for programmers, students, and educators who want to ensure the correctness of `if-else` constructs in their code.
