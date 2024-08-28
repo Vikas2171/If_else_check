@@ -90,4 +90,4 @@ if(condition){}else{}
 ```
 * OUTPUT
 
-![output](https://drive.google.com/file/d/1tBuAO4Z3-PxB6MRHOvpi3jy6UBJDe5B9/view?usp=sharing)
+![output](https://github.com/Vikas2171/If_else_parser/blob/main/image.png)
