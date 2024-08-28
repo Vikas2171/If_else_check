@@ -55,19 +55,19 @@ To run this project, you need:
 ### Installation
 1. Clone the repository:
 ```cpp
-git clone https://github.com/yourusername/If_else_check.git
+git clone https://github.com/Vikas2171/If_else_parser.git
 ```
 2. Navigate to the Project Directory:
 ```cpp
-cd If_else_check
+cd If_else_parser
 ```
 3. Compile the Program:
 ```cpp
-g++ -o if_else_check if_else_check.cpp
+g++ -o if_else_parser if_else_parser.cpp
 ```
 4. Run the Program:
 ```cpp
-./if_else_check
+./if_else_parser
 ```
 
 ## Usage
